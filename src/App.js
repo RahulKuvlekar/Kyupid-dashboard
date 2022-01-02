@@ -3,7 +3,7 @@ import MyMap from "./Components/MyMap/MyMap";
 function App() {
   return (
     <div className="App">
-      <h1>Map Data Representation</h1>
+      <h1>KyuPid</h1>
       <MyMap />
     </div>
   );
